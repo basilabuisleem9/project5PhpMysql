@@ -188,24 +188,6 @@ font-weight:bolder;}
 <p class="membername"> Osama Saaideh</p> <p> </p> </div>   </div>    
 </div> 
 
-<div class="testimonials">
-<div class="user"> <div class="userimg"><img src="images/person1.png"> </div>  <div class="usertestimony"> <p>Thanks for the great service. Accessory buying is worth much more than I paid. I wish I would have thought of it first.
-
-</p> <p id="user_name"> Umer Vinson </p>       </div></div>
-
-<div class="user"> <div class="userimg"><img src="images/person2.png"> </div>  <div class="usertestimony"> <p>I recently purchased two watches. One for me one for my wife , they look aboslutely stunning.
-
-</p> <p id="user_name"> Cooper Ferrell </p>       </div></div>
-<div class="user"> <div class="userimg"><img src="images/person3.png"> </div>  <div class="usertestimony"> <p>everywhere I go people ask me about the name of the perfume I bought from you guys , THANK YOU SO MUCH
-</p> <p id="user_name"> Kacy Shah </p>       </div></div>
-<div class="user"> <div class="userimg"><img src="images/person4.png"> </div>  <div class="usertestimony"> <p>Purchased my watch here  last year no issues at all keep amazing accuracy fantastic watch … my advice buy a watch from this shop you’re getting the best …
-</p> <p id="user_name"> Eleasha Robles </p>       </div></div>
-<div class="user"> <div class="userimg"><img src="images/person5.png"> </div>  <div class="usertestimony"> <p> I had great experience with this particular store.great service , customer care really do their best to help !!!
-</p> <p id="user_name"> Charlton Mann </p>       </div></div>
-<div class="user"> <div class="userimg"><img src="images/person6.png"> </div>  <div class="usertestimony"> <p>Very probably THE best customer service experience I have ever had!, customers are guaranteed to be satisfied
-</p> <p id="user_name"> Zane Golden </p>       </div></div>
-
-</div> 
 
 <p class="outro"> if you have any questions don't hesitate to conact us by clicking on this link <a href="#contactuspage link">CONTACT US  </a> </p>
 

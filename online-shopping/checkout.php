@@ -78,7 +78,7 @@
 
 
                                 <div class="single-input-item">
-                                    <label for="street-address" class="required">Street address</label>
+                                    <label for="street-address" class="required">Address</label>
                                     <input name="Staddress" type="text" id="street-address" placeholder="Street address Line 1" required />
                                 </div>
 
@@ -148,9 +148,7 @@
 
                                     <div class="summary-footer-area">
                                         <div class="custom-control custom-checkbox">
-                                            <input type="checkbox" class="custom-control-input" id="terms" required />
-                                            <label class="custom-control-label" for="terms">I have read and agree to the website
-                                                <a href="index.html">terms and conditions.</a></label>
+                                            
                                         </div>
 
                                         <button class="btn-add-to-cart" name="order_place" type="submit"> Place Order</button>

@@ -13,6 +13,8 @@
 	echo '
 	<tr > 
 		<th>id</th> 
+		<th>Order Number</th> 
+
 		<th>Proudect Name</th>
 		<th>Single Unit Price</th>  
 		<th>Quantity</th> 
@@ -40,6 +42,7 @@ if ($result = $conn->query($query)) {
 	
 	  echo "<tr>
 	  <td>" . $row['order_id'] . "</td>
+	  <td>" . $row['order_number'] . "</td>
 	  <td>" . $row['product_name'] . "</td>
 	  <td>" . $row['price']." JOD" . "</td>
 	  <td>" . $row['quantity'] . "</td>
@@ -53,7 +56,7 @@ if ($result = $conn->query($query)) {
   }
   echo "</table><br><Br>"; 
 } 
-			 
+
 	
                ?>
 			</tbody>
@@ -63,11 +66,4 @@ if ($result = $conn->query($query)) {
     </div>
 </div>
 
-<!-- <script type="text/javascript">
-    $(document).ready(function () {
-        setupLeftMenu();
-        $('.datatable').dataTable();
-		setSidebarHeight();
-    });
-</script> -->
 

@@ -65,7 +65,7 @@ if (isset($_SESSION['cart'])) {
 
 
                                 <?php if (!isset($_SESSION['firstname'])) { ?>
-                                    <li><a href="../checkout.php"><i class="fa fa-user-o"></i>&nbsp; Sign Up </a></li>
+                                    <li><a href="http://127.0.0.1/online-shopping/registration.php"><i class="fa fa-user-o"></i>&nbsp; Sign Up </a></li>
                                     <li><a href="./Login_form.php"><i class="fa fa-user-o"></i>&nbsp; Login </a></li>
 
                                 <?php } else {

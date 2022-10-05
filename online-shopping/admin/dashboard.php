@@ -2,6 +2,10 @@
 // include "./lib/Session.php";
 // Session::checkAdminSession();
 session_start();
+if (!isset($_SESSION['email'])){
+  header("Location:../Login_form.php");
+}else{
+
 $name=$_SESSION['firstname'];
 $family= $_SESSION['lastname'];
 
@@ -18,4 +22,6 @@ $family= $_SESSION['lastname'];
         </div>
 
         <?php
+}
   ?>
+
